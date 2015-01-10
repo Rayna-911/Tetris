@@ -1,5 +1,4 @@
-Welcome To Super Duper Two Player Tetris Fun Time Extravaganza
-A Team Delta Production
+Welcome To Tetris
 
 Three different ways to play QUICK PLAY, COOPERATIVE, and COMPETITIVE
 
